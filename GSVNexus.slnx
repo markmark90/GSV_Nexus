@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/GSVNexus.API/GSVNexus.API.csproj" />
+  </Folder>
+</Solution>
